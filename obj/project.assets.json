@@ -6651,11 +6651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdalla/Desktop/workspace/testProjects/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/Users/abdalla/Desktop/workspace/testProjects/MovieApp/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/abdalla/Desktop/workspace/testProjects/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/Users/abdalla/Desktop/workspace/testProjects/MovieApp/MvcMovie.csproj",
       "packagesPath": "/Users/abdalla/.nuget/packages/",
-      "outputPath": "/Users/abdalla/Desktop/workspace/testProjects/MvcMovie/obj/",
+      "outputPath": "/Users/abdalla/Desktop/workspace/testProjects/MovieApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abdalla/.nuget/NuGet/NuGet.Config"

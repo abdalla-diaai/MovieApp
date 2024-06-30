@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qaRQnAHm8k=",
+  "dgSpecHash": "0SXVRG9GfjE=",
   "success": true,
-  "projectFilePath": "/Users/abdalla/Desktop/workspace/testProjects/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/abdalla/Desktop/workspace/testProjects/MovieApp/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/Users/abdalla/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/abdalla/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
